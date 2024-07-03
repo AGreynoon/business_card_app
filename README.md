@@ -32,7 +32,7 @@ During this project, I focused on practicing the following Flutter concepts:
 ## Assets:
 This project includes the following asset:
 * A simple business card image `(assets/images/DSC_7060 .jpg)` used to mark completed tasks.
-* A fonts `(assets/fonts/)` to give the UI a better look.
+* Fonts `(assets/fonts/)` to give the UI a better look.
 
 ## Usage:
 * Run `flutter run` to launch the app on your device or simulator.
