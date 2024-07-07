@@ -1,4 +1,4 @@
-# business_card_app
+# Business Card App
 ### A simple Flutter app that displays a business card
 
 
