@@ -27,7 +27,7 @@ During this project, I focused on practicing the following Flutter concepts:
 ## Installation:
 1. Clone this repository.
 2. Ensure you have Flutter installed (https://docs.flutter.dev/get-started/install).
-3. Run `flutter pub` get to install dependencies.
+3. Run `flutter pub get` to install dependencies.
 
 ## Assets:
 This project includes the following asset:
